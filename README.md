@@ -23,6 +23,7 @@ review
 - content: review content
 - createdAt: the created datetime
 - updatedAt: the updated datetime
+
 user
 - username: user name
 - password: user password
